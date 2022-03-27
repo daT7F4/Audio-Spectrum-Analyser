@@ -1,6 +1,8 @@
 # Audio-Spectrum-Analyser V.1.0
 Arduino Audio spectrum analyser
 
+ORIGINAL CODE: https://create.arduino.cc/projecthub/mircemk/diy-fft-audio-spectrum-analyzer-ca2926
+
 You need:
 1x Arduino(i use arduino Uno)
 1x 128x64 GLCD(i use KS0108)
