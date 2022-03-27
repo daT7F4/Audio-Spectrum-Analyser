@@ -32,7 +32,7 @@ Pins
   20 - GND   
 
 Audio jack
-GND - GND
+GND - GND   
   L - A0   
   R - A0   
 
