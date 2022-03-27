@@ -1,4 +1,4 @@
-# Audio-Spectrum-Analyser
+# Audio-Spectrum-Analyser V.1.0
 Arduino Audio spectrum analyser
 
 You need:
