@@ -1,3 +1,5 @@
+//ORIGINAL CODE: https://create.arduino.cc/projecthub/mircemk/diy-fft-audio-spectrum-analyzer-ca2926
+
 #include "U8glib.h"
 #include "fix_fft.h"
 
