@@ -38,4 +38,4 @@ GND - GND
   L - A0   
   R - A0   
 
-If you use STD display you might use some other wiering because that type of display use SPI.
+If you use STD display you might use some other wiring because that type of display use SPI.
